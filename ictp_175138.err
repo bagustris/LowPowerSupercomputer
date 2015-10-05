@@ -1,0 +1,4 @@
+srun: error: mb-121: task 0: Segmentation fault
+srun: Terminating job step 175138.0
+srun: error: mb-121: task 0: Segmentation fault
+srun: Terminating job step 175138.2

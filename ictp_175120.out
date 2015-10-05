@@ -1,0 +1,20 @@
+Running on nodes: mb-122
+=======================================================================
+1 core(s) / Freq = 1600 MHz / NO GPU
+=======================================================================
+2 core(s) / Freq = 1600 MHz / NO GPU
+=======================================================================
+1 core(s) / Freq = 800 MHz / NO GPU
+Time to finish  51999 ms [check = 3.565752e+08]
+=======================================================================
+2 core(s) / Freq = 800 MHz / NO GPU
+Time to finish  26227 ms [check = 3.565752e+08]
+=======================================================================
+1 core(s) / Freq = 1600 MHz / GPU
+Unable to open /home/fmantovani/ICTP-workshop/kernels.cl. 
+=======================================================================
+1 core(s) / Freq = 800 MHz / GPU
+Unable to open /home/fmantovani/ICTP-workshop/kernels.cl. 
+Job start / end: 1444060414 1444060563
+For getting power data of this job run: 
+  dcdbquery -h mb.mont.blanc -r mb-122-PWR 1444060414 1444060563

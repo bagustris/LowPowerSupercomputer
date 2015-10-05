@@ -1,0 +1,8 @@
+srun: error: mb-122: task 0: Segmentation fault
+srun: Terminating job step 175120.0
+srun: error: mb-122: task 0: Segmentation fault
+srun: Terminating job step 175120.2
+srun: error: mb-122: task 0: Exited with exit code 1
+srun: Terminating job step 175120.8
+srun: error: mb-122: task 0: Exited with exit code 1
+srun: Terminating job step 175120.10

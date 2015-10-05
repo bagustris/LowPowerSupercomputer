@@ -1,0 +1,22 @@
+Running on nodes: mb-121
+=======================================================================
+1 core(s) / Freq = 1600 MHz / NO GPU
+Time to finish  12312 ms [check = 1.713562e+08]
+=======================================================================
+2 core(s) / Freq = 1600 MHz / NO GPU
+Time to finish   6237 ms [check = 1.713562e+08]
+=======================================================================
+1 core(s) / Freq = 800 MHz / NO GPU
+Time to finish  24574 ms [check = 1.713562e+08]
+=======================================================================
+2 core(s) / Freq = 800 MHz / NO GPU
+Time to finish  12428 ms [check = 1.713562e+08]
+=======================================================================
+1 core(s) / Freq = 1600 MHz / GPU
+Time to finish   4272 ms [check = 1.713562e+08]
+=======================================================================
+1 core(s) / Freq = 800 MHz / GPU
+Time to finish   5323 ms [check = 1.713562e+08]
+Job start / end: 1444062024 1444062163
+For getting power data of this job run: 
+  dcdbquery -h mb.mont.blanc -r mb-121-PWR 1444062024 1444062163

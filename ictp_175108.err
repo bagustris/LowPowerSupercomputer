@@ -1,0 +1,18 @@
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.0
+slurmstepd: execve(): /home/bagus/ictp17/es1: No such file or directory
+slurmstepd: execve(): /home/bagus/ictp17/es1: No such file or directory
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.2
+slurmstepd: execve(): /home/bagus/ictp17/es1: No such file or directory
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.4
+slurmstepd: execve(): /home/bagus/ictp17/es1: No such file or directory
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.6
+slurmstepd: execve(): /home/bagus/ictp17/es2: No such file or directory
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.8
+slurmstepd: execve(): /home/bagus/ictp17/es2: No such file or directory
+srun: error: mb-121: task 0: Exited with exit code 2
+srun: Terminating job step 175108.10
